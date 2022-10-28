@@ -1,8 +1,8 @@
-# mkDoxyfile: Make Doxygen Doxyfile
+# Make Doxygen Doxyfile
 
 Simply install and run `mkdoxyfile`. Provide the required project details and the Doxyfile will create in the current path
 
-##Example
+## Example
 ```
 $ mkdoxyfile 
 Enter Project name     : My-Project
